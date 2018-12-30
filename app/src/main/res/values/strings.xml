@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="create_new_contact">Create Contact</string>
+    <string name="phone">Phone</string>
+    <string name="web">web</string>
+    <string name="map">map</string>
+    <string name="the_most_recent_contact">The most recent contact:</string>
+    <string name="no_data">No data received!</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="cancel">Cancel</string>
+</resources>
